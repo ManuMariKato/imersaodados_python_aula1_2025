@@ -23,7 +23,7 @@
 # 📊 Google Colab
 ---
 
-Desvendando códigos no google colab a partir da imersão de python da alura.
+Trabalhando com dados no google colab, importando a biblioteca PANDAS. Criando tabelas diversas, como pizza, colunas e outras.
 
 ---
 ## 🔌 Linguagens utilizadas
