@@ -23,7 +23,15 @@
 # 📊 Google Colab
 ---
 
-Trabalhando com dados no google colab, importando a biblioteca PANDAS. Criando tabelas diversas, como pizza, colunas e outras.
+Trabalhando com dados no google colab, importando a biblioteca <strong> PANDAS. </strong> Criando tabelas diversas, como pizza, colunas e outras.
+
+---
+
+<img width="877" height="560" alt="tabeladedadospythonimersao" src="https://github.com/user-attachments/assets/fc38fb05-509c-4d40-932c-a70513ba2bd4" />
+
+---
+
+<img width="923" height="509" alt="tabelacolunaspythonimersao" src="https://github.com/user-attachments/assets/f1178f49-fc82-436a-8866-4bea4bdd4142" />
 
 ---
 ## 🔌 Linguagens utilizadas
